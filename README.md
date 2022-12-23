@@ -1,4 +1,3 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
 # GPT3-TopicToTweet
+### Welcome 👋
+An AI-based web app that can convert any topic into twitter tweet thread
